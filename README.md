@@ -1,8 +1,8 @@
 👋 Hello, I'm ASHWIN JOLLY!
 🚀 About Me
-🎓 Pursuing BCA with a focus on Data Science and AI.
-💻 Passionate about coding, data analytics, and machine learning.
-🌱 Currently learning and exploring various algorithms and techniques in the field.
+🎓 Exploring the realms of Data Science, Machine Learning, and AI to unravel the mysteries of data. 
+💻 Passionate about coding, algorithms, and creating intelligent systems that redefine possibilities.
+🌱 🌌 Seeking to blend creativity with data-driven insights to craft innovative solutions. 
 🔍 Actively seeking opportunities to collaborate on innovative projects.
 
 💼 Skills
